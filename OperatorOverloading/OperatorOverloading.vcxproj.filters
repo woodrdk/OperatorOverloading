@@ -26,5 +26,8 @@
     <ClInclude Include="..\..\..\..\Desktop\HugeInteger.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Debug\HugeInteger.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
