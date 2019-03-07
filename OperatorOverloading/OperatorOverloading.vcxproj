@@ -117,6 +117,8 @@
   <ItemGroup>
     <ClCompile Include="..\..\..\..\Desktop\HugeInteger.cpp" />
     <ClCompile Include="..\..\..\..\Desktop\Main.cpp" />
+    <ClCompile Include="Debug\HugeInteger.cpp" />
+    <ClCompile Include="Debug\Main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\..\..\Desktop\HugeInteger.h" />
